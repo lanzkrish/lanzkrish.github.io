@@ -1,4 +1,4 @@
-body {
+body, navbar {
   background-image: url('back2.png');
   background-reapeat: no-repeat;
   background-size: cover;
